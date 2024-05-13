@@ -1,0 +1,1 @@
+logString("Hello", "my", "world!");
